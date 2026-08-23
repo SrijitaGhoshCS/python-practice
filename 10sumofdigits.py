@@ -8,3 +8,4 @@ while num > 0:
 
 # Step 4: Print the result
 print("Sum of digits is:", digit_sum)
+print('hello')
